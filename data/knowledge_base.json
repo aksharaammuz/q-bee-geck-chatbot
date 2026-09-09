@@ -1,0 +1,700 @@
+[
+  {
+    "category": "College & University",
+    "questions": [
+      "What is the full name of GECK?",
+      "What does GECK stand for?",
+      "Which college is this?",
+      "GECK full form"
+    ],
+    "answer_en": "GECK stands for Government Engineering College Kozhikode.",
+    "answer_ml": "GECK എന്നത് Government Engineering College Kozhikode എന്നാണ്.",
+    "keywords": [
+      "geck",
+      "full name",
+      "stand for",
+      "college name",
+      "government engineering college kozhikode"
+    ]
+  },
+  {
+    "category": "College & University",
+    "questions": [
+      "Where is GECK located?",
+      "Where is the college?",
+      "GECK location",
+      "college location"
+    ],
+    "answer_en": "GECK is located in Kozhikode, Kerala, in the Malabar region.",
+    "answer_ml": "GECK കേരളത്തിലെ കോഴിക്കോട്, മലബാർ മേഖലയിലാണ് സ്ഥിതി ചെയ്യുന്നത്.",
+    "keywords": [
+      "location",
+      "where",
+      "kozhikode",
+      "kerala",
+      "malabar"
+    ]
+  },
+  {
+    "category": "College & University",
+    "questions": [
+      "When was GECK established?",
+      "GECK establishment year",
+      "When did the college start?"
+    ],
+    "answer_en": "GECK was established by the Government of Kerala during the academic year 1999–2000.",
+    "answer_ml": "കേരള സർക്കാർ 1999–2000 അധ്യയന വർഷത്തിലാണ് GECK സ്ഥാപിച്ചത്.",
+    "keywords": [
+      "established",
+      "started",
+      "year",
+      "1999",
+      "2000"
+    ]
+  },
+  {
+    "category": "College & University",
+    "questions": [
+      "Is GECK ISO certified?",
+      "ISO certification of GECK"
+    ],
+    "answer_en": "Yes. GECK is an ISO 9001:2015 certified institution.",
+    "answer_ml": "അതെ. GECK ഒരു ISO 9001:2015 സർട്ടിഫൈഡ് സ്ഥാപനമാണ്.",
+    "keywords": [
+      "iso",
+      "certified",
+      "9001"
+    ]
+  },
+  {
+    "category": "Courses",
+    "questions": [
+      "What undergraduate programme does GECK offer?",
+      "Does GECK offer BTech?",
+      "Which UG course is available?"
+    ],
+    "answer_en": "GECK offers full-time B.Tech degree programmes.",
+    "answer_ml": "GECK പൂർണ്ണകാല B.Tech ഡിഗ്രി പ്രോഗ്രാമുകൾ നൽകുന്നു.",
+    "keywords": [
+      "undergraduate",
+      "ug",
+      "btech",
+      "b.tech",
+      "course"
+    ]
+  },
+  {
+    "category": "Courses",
+    "questions": [
+      "How many BTech branches are available?",
+      "Number of BTech branches",
+      "How many departments are there in BTech?"
+    ],
+    "answer_en": "Six B.Tech branches are available.",
+    "answer_ml": "ആറ് B.Tech ബ്രാഞ്ചുകൾ ലഭ്യമാണ്.",
+    "keywords": [
+      "how many",
+      "branches",
+      "six",
+      "btech"
+    ]
+  },
+  {
+    "category": "Courses",
+    "questions": [
+      "What are the BTech branches at GECK?",
+      "Which branches are available?",
+      "List BTech courses",
+      "departments in GECK"
+    ],
+  "answer_en": "B.Tech branches:\n• Applied Electronics and Instrumentation\n• Chemical Engineering\n• Electronics and Communication Engineering\n• Mechanical Engineering\n• Civil Engineering\n• Computer Science and Design",
+
+"answer_ml": "B.Tech ബ്രാഞ്ചുകൾ:\n• Applied Electronics and Instrumentation\n• Chemical Engineering\n• Electronics and Communication Engineering\n• Mechanical Engineering\n• Civil Engineering\n• Computer Science and Design",
+
+"keywords": [
+  "branches",
+  "courses",
+  "departments",
+  "computer science and design",
+  "civil",
+  "mechanical",
+  "chemical",
+  "electronics"
+]
+  },
+  {
+    "category": "Courses",
+    "questions": [
+      "What is the duration of BTech at GECK?",
+      "How long is BTech?",
+      "How many semesters in BTech?"
+    ],
+    "answer_en": "The B.Tech programmes have a duration of 8 semesters.",
+    "answer_ml": "B.Tech പ്രോഗ്രാമുകളുടെ ദൈർഘ്യം 8 സെമസ്റ്ററുകളാണ്.",
+    "keywords": [
+      "duration",
+      "semesters",
+      "8",
+      "btech"
+    ]
+  },
+  {
+    "category": "Courses",
+    "questions": [
+      "What is the annual intake for each BTech branch?",
+      "How many seats in each branch?",
+      "BTech intake per branch"
+    ],
+    "answer_en": "The annual intake is 66 students in each B.Tech branch.",
+    "answer_ml": "ഓരോ B.Tech ബ്രാഞ്ചിലും വാർഷിക പ്രവേശനം 66 വിദ്യാർത്ഥികളാണ്.",
+    "keywords": [
+      "intake",
+      "seats",
+      "66",
+      "branch"
+    ]
+  },
+  {
+    "category": "Courses",
+    "questions": [
+      "Does GECK offer MTech?",
+      "Which MTech programmes are offered?",
+      "MTech courses"
+    ],
+  "answer_en": "M.Tech programmes:\n• Signal Processing\n• Energy Systems Analysis and Design\n• Computer Aided Process Design\n• Structural Engineering",
+
+"answer_ml": "M.Tech പ്രോഗ്രാമുകൾ:\n• Signal Processing\n• Energy Systems Analysis and Design\n• Computer Aided Process Design\n• Structural Engineering",
+
+"keywords": [
+  "mtech",
+  "m.tech",
+  "postgraduate",
+  "signal processing",
+  "structural"
+]
+  },
+  {
+    "category": "College & University",
+    "questions": [
+      "Which universities is GECK affiliated with?",
+      "GECK university affiliation",
+      "Which university is GECK under?"
+    ],
+    "answer_en": "GECK is affiliated with the University of Calicut and APJ Abdul Kalam Technological University.",
+    "answer_ml": "GECK University of Calicut-നും APJ Abdul Kalam Technological University-ക്കും അനുബന്ധമാണ്.",
+    "keywords": [
+      "university",
+      "affiliated",
+      "ktu",
+      "apj",
+      "calicut university"
+    ]
+  },
+  {
+    "category": "College & University",
+    "questions": [
+      "Is GECK recognized by AICTE?",
+      "AICTE approval"
+    ],
+    "answer_en": "Yes. GECK is recognized by the All India Council for Technical Education (AICTE).",
+    "answer_ml": "അതെ. GECK-ന് All India Council for Technical Education (AICTE) അംഗീകാരം ഉണ്ട്.",
+    "keywords": [
+      "aicte",
+      "recognized",
+      "approval"
+    ]
+  },
+  {
+    "category": "Admission Schedule",
+    "questions": [
+      "When is admission for the 2026-27 batch?",
+      "What is the admission date?",
+      "When should I come for admission?",
+      "admission date"
+    ],
+    "answer_en": "Admission for the 2026–27 batch is scheduled for September 10, 2026.",
+    "answer_ml": "2026–27 ബാച്ചിന്റെ അഡ്മിഷൻ 2026 സെപ്റ്റംബർ 10-ന് നിശ്ചയിച്ചിരിക്കുന്നു.",
+    "keywords": [
+      "admission date",
+      "when admission",
+      "september 10",
+      "2026",
+      "date"
+    ]
+  },
+  {
+    "category": "Admission Schedule",
+    "questions": [
+      "What time does admission begin on September 10?",
+      "Admission starting time",
+      "What time should I report for admission?"
+    ],
+    "answer_en": "Admission begins at 9:30 AM on September 10, 2026.",
+    "answer_ml": "2026 സെപ്റ്റംബർ 10-ന് അഡ്മിഷൻ രാവിലെ 9:30-ന് ആരംഭിക്കുന്നു.",
+    "keywords": [
+      "admission time",
+      "9:30",
+      "report",
+      "time"
+    ]
+  },
+  {
+    "category": "Sports Admission",
+    "questions": [
+      "When should sports admission students report?",
+      "Sports admission reporting time",
+      "What time for sports quota admission?"
+    ],
+    "answer_en": "Students under the sports admission scheme should reach the college at 11:00 AM.",
+    "answer_ml": "Sports admission scheme പ്രകാരമുള്ള വിദ്യാർത്ഥികൾ രാവിലെ 11:00 മണിക്ക് കോളേജിലെത്തണം.",
+    "keywords": [
+      "sports",
+      "11:00",
+      "report",
+      "quota"
+    ]
+  },
+  {
+    "category": "Sports Admission",
+    "questions": [
+      "Is sports admission based on KEAM ranking?",
+      "How does sports admission work?",
+      "Is KEAM required for sports admission?"
+    ],
+    "answer_en": "Yes. Sports admission is based on the KEAM rank list, and KEAM qualification is required for the admission described in the provided information.",
+    "answer_ml": "അതെ. Sports admission KEAM rank list അടിസ്ഥാനമാക്കിയുള്ളതാണ്; നൽകിയ വിവരമനുസരിച്ച് KEAM qualification ആവശ്യമാണ്.",
+    "keywords": [
+      "sports",
+      "keam",
+      "rank",
+      "qualification"
+    ]
+  },
+  {
+    "category": "Admission Documents",
+    "questions": [
+      "What documents are required for admission?",
+      "What should I bring for admission?",
+      "Admission documents list",
+      "documents needed",
+      "certificate list"
+    ],
+    "answer_en": "Bring the KEAM Data Sheet, KEAM Admit Card, original SSLC certificate with two attested copies, original Plus Two/Higher Secondary certificate with two attested copies, date-of-birth certificate, Transfer Certificate, Conduct Certificate, Migration Certificate where applicable, Physical Fitness Certificate, one recent passport-size photograph, relevant category certificates where applicable, and other documents required by the KEAM Prospectus.",
+    "answer_ml": "അഡ്മിഷനായി KEAM Data Sheet, KEAM Admit Card, original SSLC certificate + 2 attested copies, original Plus Two/Higher Secondary certificate + 2 attested copies, date-of-birth certificate, Transfer Certificate, Conduct Certificate, ബാധകമെങ്കിൽ Migration Certificate, Physical Fitness Certificate, ഒരു recent passport-size photo, ബാധകമായ category certificates, കൂടാതെ KEAM Prospectus പ്രകാരമുള്ള മറ്റ് രേഖകൾ കൊണ്ടുവരണം.",
+    "keywords": [
+      "documents",
+      "bring",
+      "certificate",
+      "admission",
+      "sslc",
+      "plus two",
+      "tc",
+      "conduct",
+      "fitness"
+    ]
+  },
+  {
+    "category": "Admission Documents",
+    "questions": [
+      "How many copies of KEAM data sheet?",
+      "Do I need KEAM data sheet?",
+      "KEAM data sheet copies"
+    ],
+    "answer_en": "Yes. Two copies of the KEAM Data Sheet 2026 are required.",
+    "answer_ml": "അതെ. KEAM Data Sheet 2026-ന്റെ 2 കോപ്പികൾ ആവശ്യമാണ്.",
+    "keywords": [
+      "keam",
+      "data sheet",
+      "copies",
+      "two"
+    ]
+  },
+  {
+    "category": "Admission Documents",
+    "questions": [
+      "How many copies of KEAM admit card?",
+      "Do I need KEAM admit card?",
+      "KEAM admit card copies"
+    ],
+    "answer_en": "Yes. Two copies of the KEAM Admit Card 2026 are required.",
+    "answer_ml": "അതെ. KEAM Admit Card 2026-ന്റെ 2 കോപ്പികൾ ആവശ്യമാണ്.",
+    "keywords": [
+      "keam",
+      "admit card",
+      "copies",
+      "two"
+    ]
+  },
+  {
+    "category": "Admission Documents",
+    "questions": [
+      "Is original SSLC certificate required?",
+      "How many SSLC copies?",
+      "SSLC certificate"
+    ],
+    "answer_en": "Yes. The original SSLC certificate and two attested copies are required.",
+    "answer_ml": "അതെ. Original SSLC certificate-ും 2 attested copies-ും ആവശ്യമാണ്.",
+    "keywords": [
+      "sslc",
+      "original",
+      "attested",
+      "copies"
+    ]
+  },
+  {
+    "category": "Admission Documents",
+    "questions": [
+      "Is Plus Two certificate required?",
+      "Do I need higher secondary certificate?",
+      "How many Plus Two copies?"
+    ],
+    "answer_en": "Yes. The original Plus Two/Higher Secondary Examination Certificate and two attested copies are required.",
+    "answer_ml": "അതെ. Original Plus Two/Higher Secondary Examination Certificate-ും 2 attested copies-ും ആവശ്യമാണ്.",
+    "keywords": [
+      "plus two",
+      "higher secondary",
+      "original",
+      "attested",
+      "copies"
+    ]
+  },
+  {
+    "category": "Admission Documents",
+    "questions": [
+      "Is transfer certificate required?",
+      "Do I need TC?",
+      "TC required for admission"
+    ],
+    "answer_en": "Yes. A Transfer Certificate (TC) from the institution last attended is required.",
+    "answer_ml": "അതെ. അവസാനമായി പഠിച്ച സ്ഥാപനത്തിൽ നിന്നുള്ള Transfer Certificate (TC) ആവശ്യമാണ്.",
+    "keywords": [
+      "transfer certificate",
+      "tc",
+      "last institution"
+    ]
+  },
+  {
+    "category": "Admission Documents",
+    "questions": [
+      "Is conduct certificate required?",
+      "Do I need conduct certificate?"
+    ],
+    "answer_en": "Yes. A Conduct Certificate from the institution last attended is required.",
+    "answer_ml": "അതെ. അവസാനമായി പഠിച്ച സ്ഥാപനത്തിൽ നിന്നുള്ള Conduct Certificate ആവശ്യമാണ്.",
+    "keywords": [
+      "conduct certificate",
+      "conduct",
+      "last institution"
+    ]
+  },
+  {
+    "category": "Admission Documents",
+    "questions": [
+      "Is migration certificate required?",
+      "Do I need migration certificate?"
+    ],
+    "answer_en": "A Migration Certificate is required wherever applicable.",
+    "answer_ml": "ബാധകമായ സാഹചര്യങ്ങളിൽ Migration Certificate ആവശ്യമാണ്.",
+    "keywords": [
+      "migration certificate",
+      "migration",
+      "applicable"
+    ]
+  },
+  {
+    "category": "Admission Documents",
+    "questions": [
+      "Is physical fitness certificate required?",
+      "Do I need fitness certificate?"
+    ],
+    "answer_en": "Yes. A Physical Fitness Certificate is required.",
+    "answer_ml": "അതെ. Physical Fitness Certificate ആവശ്യമാണ്.",
+    "keywords": [
+      "physical fitness",
+      "fitness certificate",
+      "medical"
+    ]
+  },
+  {
+    "category": "Admission Documents",
+    "questions": [
+      "How many passport size photos are required?",
+      "Do I need photo for admission?",
+      "passport photo"
+    ],
+    "answer_en": "One recent passport-size photograph is required.",
+    "answer_ml": "ഒരു recent passport-size photograph ആവശ്യമാണ്.",
+    "keywords": [
+      "passport",
+      "photo",
+      "photograph",
+      "one"
+    ]
+  },
+  {
+    "category": "Admission Documents",
+    "questions": [
+      "Is income certificate required?",
+      "Is caste certificate required?",
+      "Is non creamy layer certificate required?",
+      "Which category certificates are needed?"
+    ],
+    "answer_en": "Income Certificate, Caste Certificate, and Non-Creamy Layer Certificate may be required wherever applicable.",
+    "answer_ml": "ബാധകമായ സാഹചര്യങ്ങളിൽ Income Certificate, Caste Certificate, Non-Creamy Layer Certificate എന്നിവ ആവശ്യമായി വരാം.",
+    "keywords": [
+      "income",
+      "caste",
+      "non creamy layer",
+      "category certificate"
+    ]
+  },
+  {
+    "category": "Admission Documents",
+    "questions": [
+      "What are Sakshya Patrangal?",
+      "testimony documents",
+      "How many testimony copies are needed?"
+    ],
+    "answer_en": "Sakshya Patrangal refers to testimony documents. Two copies of the required testimony document should be submitted.",
+    "answer_ml": "Sakshya Patrangal എന്നത് testimony documents ആണ്. ആവശ്യമായ testimony document-ന്റെ 2 കോപ്പികൾ സമർപ്പിക്കണം.",
+    "keywords": [
+      "sakshya",
+      "testimony",
+      "copies"
+    ]
+  },
+  {
+    "category": "Admission Fees",
+    "questions": [
+      "What is the tuition fee?",
+      "How much is tuition fee?"
+    ],
+    "answer_en": "The tuition fee is ₹6,300. The fee table states that the tuition fee is paid to CEE.",
+    "answer_ml": "Tuition fee ₹6,300 ആണ്. Fee table പ്രകാരം ഇത് CEE-ലേക്ക് അടയ്ക്കുന്നു.",
+    "keywords": [
+      "tuition",
+      "6300",
+      "cee"
+    ]
+  },
+  {
+    "category": "Admission Fees",
+    "questions": [
+      "What is the admission fee?",
+      "How much is admission fee?"
+    ],
+    "answer_en": "The admission fee is ₹2,400.",
+    "answer_ml": "Admission fee ₹2,400 ആണ്.",
+    "keywords": [
+      "admission fee",
+      "2400"
+    ]
+  },
+  {
+    "category": "Admission Fees",
+    "questions": [
+      "What is the fee structure?",
+      "How much should I pay for admission?",
+      "college fees",
+      "fees for first year",
+      "admission fee structure"
+    ],
+   "answer_en": "Fee structure:\n• Tuition fee: ₹6,300\n• Admission fee: ₹2,400\n• Regular special fee: ₹1,740\n• Special Fee (PD): ₹370\n• Caution deposit: ₹1,000\n\nFirst fee-category total: ₹9,650\nUniversity fee total: ₹5,555\nAdditional funds total: ₹12,210\nBus fee: ₹1,300",
+
+"answer_ml": "Fee structure:\n• Tuition fee: ₹6,300\n• Admission fee: ₹2,400\n• Regular special fee: ₹1,740\n• Special Fee (PD): ₹370\n• Caution deposit: ₹1,000\n\nFirst fee-category total: ₹9,650\nUniversity fee total: ₹5,555\nAdditional funds total: ₹12,210\nBus fee: ₹1,300",
+
+"keywords": [
+  "fee structure",
+  "fees",
+  "first year",
+  "total",
+  "tuition",
+  "admission fee",
+  "university fee"
+]
+  },
+  {
+    "category": "University Fees",
+    "questions": [
+      "What is the university fee?",
+      "University fee structure",
+      "How much university fee?"
+    ],
+   "answer_en": "University fee:\n• University administration fee: ₹1,050\n• Affiliation fee: ₹790\n• Arts and sports fee: ₹530\n• Examination fee: ₹1,885\n\nTotal: ₹5,555\n\nPayment: Digital payment",
+
+"answer_ml": "University fee:\n• University administration fee: ₹1,050\n• Affiliation fee: ₹790\n• Arts and sports fee: ₹530\n• Examination fee: ₹1,885\n\nTotal: ₹5,555\n\nPayment: Digital payment",
+
+"keywords": [
+  "university fee",
+  "administration",
+  "affiliation",
+  "arts",
+  "sports",
+  "examination",
+  "5555"
+]
+  },
+  {
+    "category": "Other Fees",
+    "questions": [
+      "What are the additional funds?",
+      "PTA fund",
+      "student welfare fund",
+      "alumni fund",
+      "placement cell fund"
+    ],
+  "answer_en": "Additional funds:\n• PTA Fund: ₹7,500\n• Students' Welfare Fund: ₹2,500\n• Co-operative Membership: ₹210\n• Alumni Fund: ₹1,000\n• Career Guidance and Placement Cell Fund: ₹1,000\n\nTotal: ₹12,210",
+
+"answer_ml": "Additional funds:\n• PTA Fund: ₹7,500\n• Students' Welfare Fund: ₹2,500\n• Co-operative Membership: ₹210\n• Alumni Fund: ₹1,000\n• Career Guidance and Placement Cell Fund: ₹1,000\n\nTotal: ₹12,210",
+
+"keywords": [
+  "pta",
+  "welfare",
+  "co-operative",
+  "alumni",
+  "placement",
+  "additional funds",
+  "12210"
+]
+  },
+  {
+    "category": "Fee Payment",
+    "questions": [
+      "Can fees be paid online?",
+      "How can I pay fees?",
+      "When can I pay fees through college website?",
+      "payment mode"
+    ],
+    "answer_en": "Yes. Relevant fees can be paid digitally/through the college website. The provided information says website fee payment is available from August 17 onwards. After each category payment, enter the amount separately and note the DC number and date.",
+    "answer_ml": "അതെ. ബന്ധപ്പെട്ട ഫീസുകൾ digital payment/college website വഴി അടയ്ക്കാം. നൽകിയ വിവരമനുസരിച്ച് August 17 മുതൽ website വഴി fee payment ലഭ്യമാണ്. ഓരോ category payment-നും amount പ്രത്യേകം രേഖപ്പെടുത്തി DC number-ും date-ും കുറിച്ചുവയ്ക്കണം.",
+    "keywords": [
+      "online",
+      "payment",
+      "website",
+      "august 17",
+      "dc number",
+      "digital"
+    ]
+  },
+  {
+    "category": "Hostel",
+    "questions": [
+      "Is ladies hostel available?",
+      "Does GECK have girls hostel?",
+      "Hostel facility for girls"
+    ],
+    "answer_en": "Yes. According to the provided information, hostel facilities are available for girls.",
+    "answer_ml": "അതെ. നൽകിയ വിവരമനുസരിച്ച് പെൺകുട്ടികൾക്ക് hostel facility ലഭ്യമാണ്.",
+    "keywords": [
+      "ladies hostel",
+      "girls hostel",
+      "hostel facility"
+    ]
+  },
+  {
+    "category": "Hostel",
+    "questions": [
+      "When is ladies hostel admission?",
+      "Girls hostel admission date",
+      "What time is hostel admission?"
+    ],
+    "answer_en": "Ladies' hostel admission is scheduled for August 19, 2026, Wednesday, from 9:30 AM onwards, at the Placement Hall, GEC Kozhikode.",
+    "answer_ml": "Ladies' hostel admission 2026 August 19, Wednesday, രാവിലെ 9:30 മുതൽ GEC Kozhikode Placement Hall-ൽ നടക്കും.",
+    "keywords": [
+      "hostel admission",
+      "august 19",
+      "9:30",
+      "placement hall"
+    ]
+  },
+  {
+    "category": "Hostel",
+    "questions": [
+      "Should parent come for hostel admission?",
+      "Is parent attendance compulsory?",
+      "Who should attend hostel admission?"
+    ],
+    "answer_en": "Yes. Students seeking ladies' hostel admission must attend with their parent.",
+    "answer_ml": "അതെ. Ladies' hostel admission തേടുന്ന വിദ്യാർത്ഥികൾ parent-നൊപ്പം പങ്കെടുക്കണം.",
+    "keywords": [
+      "parent",
+      "hostel admission",
+      "compulsory",
+      "attend"
+    ]
+  },
+  {
+    "category": "Hostel Fees",
+    "questions": [
+      "What is hostel fee?",
+      "Hostel fee structure",
+      "How much is ladies hostel fee?"
+    ],
+  "answer_en": "Hostel fees:\n• Admission fee: ₹25\n• Caution deposit: ₹2,000\n• Hostel development fund: ₹1,500\n\nMess advance:\n• SC/ST/OEC/OBC(H): Nil\n• Other categories: ₹3,500\n\nTotal:\n• SC/ST/OEC/OBC(H): ₹3,525\n• Other categories: ₹7,025",
+
+"answer_ml": "Hostel fees:\n• Admission fee: ₹25\n• Caution deposit: ₹2,000\n• Hostel development fund: ₹1,500\n\nMess advance:\n• SC/ST/OEC/OBC(H): Nil\n• Other categories: ₹3,500\n\nTotal:\n• SC/ST/OEC/OBC(H): ₹3,525\n• Other categories: ₹7,025",
+
+"keywords": [
+  "hostel fee",
+  "mess advance",
+  "caution",
+  "development fund",
+  "3525",
+  "7025"
+]
+  },
+  {
+    "category": "Hostel Documents",
+    "questions": [
+      "What documents are needed for hostel admission?",
+      "Hostel documents",
+      "What should I bring for girls hostel admission?"
+    ],
+  "answer_en": "Hostel admission documents:\n• College ID card\n• Income Certificate\n• Community Certificate\n• BPL Card\n• Duly filled Affidavit\n• Declaration Form and Undertaking\n• Proof of CGPA",
+
+"answer_ml": "Hostel admission രേഖകൾ:\n• College ID card\n• Income Certificate\n• Community Certificate\n• BPL Card\n• Duly filled Affidavit\n• Declaration Form and Undertaking\n• Proof of CGPA","keywords": [
+      "hostel documents",
+      "college id",
+      "income",
+      "community",
+      "bpl",
+      "affidavit",
+      "declaration",
+      "undertaking",
+      "cgpa"
+    ]
+  },
+  {
+    "category": "Student Support",
+    "questions": [
+      "Where can I get scholarship information?",
+      "Whom should I contact for scholarship?",
+      "Scholarship help"
+    ],
+    "answer_en": "Students can approach the relevant college cells for scholarship details after admission.",
+    "answer_ml": "അഡ്മിഷന് ശേഷം scholarship വിവരങ്ങൾക്ക് ബന്ധപ്പെട്ട college cells-നെ സമീപിക്കാം.",
+    "keywords": [
+      "scholarship",
+      "college cell",
+      "after admission"
+    ]
+  },
+  {
+    "category": "Student Support",
+    "questions": [
+      "Whom can I contact if I have doubts?",
+      "Who can help with admission doubts?",
+      "Need admission help"
+    ],
+    "answer_en": "Students can contact the relevant college cells, college union, and support teams. The provided information mentions NSS and Mithra.",
+    "answer_ml": "സംശയങ്ങൾക്ക് ബന്ധപ്പെട്ട college cells, college union, support teams എന്നിവരെ സമീപിക്കാം. നൽകിയ വിവരത്തിൽ NSS, Mithra എന്നിവയും പരാമർശിക്കുന്നു.",
+    "keywords": [
+      "contact",
+      "doubt",
+      "help",
+      "college union",
+      "nss",
+      "mithra"
+    ]
+  }
+]

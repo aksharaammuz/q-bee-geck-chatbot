@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>QBee | GECK Admission Assistant</title>
+  <meta name="description" content="QueryBee is a multilingual admission help chatbot for Government Engineering College Kozhikode.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+Malayalam:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+  <main class="shell">
+    <section class="intro">
+      <div class="brand-row">
+        <div class="bee">Q</div>
+        <div>
+          <h1>QBee</h1>
+          <p>GECK Admission Assistant</p>
+        </div>
+      </div>
+      <h2>Admission doubts?<br><span>Ask QBee.</span></h2>
+      <p class="lead">Get quick answers about documents, dates, fees, courses, university and hostel information for Government Engineering College Kozhikode.</p>
+      <div class="features">
+        <span>English + മലയാളം</span>
+        <span>Voice replies</span>
+        <span>Admission-focused</span>
+      </div>
+      <div class="source-note">Answers are limited to the supplied GECK admission knowledge base.</div>
+    </section>
+
+    <section class="chat-card">
+      <header class="chat-head">
+        <div>
+          <strong>QBee Assistant</strong>
+          <span><i></i> Ready to help</span>
+        </div>
+        <select id="language" aria-label="Language">
+          <option value="auto">Auto language</option>
+          <option value="en">English</option>
+          <option value="ml">മലയാളം</option>
+        </select>
+      </header>
+
+      <div class="quick">
+        <button data-q="What documents are required for admission?">Documents</button>
+        <button data-q="What is the admission date?">Admission date</button>
+        <button data-q="What is the fee structure?">Fees</button>
+        <button data-q="What is the hostel fee?">Hostel</button>
+      </div>
+
+      <div id="messages" class="messages">
+        <div class="message bot">
+          <div class="bubble">
+            Hi! I’m QBee 🐝 Ask me anything about GECK admission, documents, fees, courses, hostel or university information.
+          </div>
+        </div>
+      </div>
+
+      <form id="chatForm" class="composer">
+        <textarea id="messageInput" rows="1" placeholder="Ask an admission question..." autocomplete="off"></textarea>
+        <button class="send" type="submit" aria-label="Send">➜</button>
+      </form>
+      <p class="hint">Press Enter to send · Shift + Enter for a new line</p>
+    </section>
+  </main>
+  <script src="/static/js/app.js"></script>
+</body>
+</html>
